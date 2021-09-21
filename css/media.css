@@ -1,0 +1,74 @@
+
+/******* (max-width: 1200px) **********/
+ @media ( max-width: 1200px ) {
+.text1 {font-size: 19px;}
+
+}
+/******* (max-width: 1024px) **********/
+
+ @media ( max-width: 1024px ) {
+
+.wine {line-height: 22.6px; font-size: 18px;}
+
+.text1 {font-size: 16px; line-height: 29.6px;}
+
+ }
+
+
+/******* (max-width: 992px) **********/
+ @media ( max-width: 768px ) {
+ 	.content h2, .Which h2 {font-size: 48px;}
+ 	.matching h2 {font-size: 48px;}
+ 	.matching-1 h2 {font-size: 48px;}
+ 	.what-makes h2 {font-size: 48px;}
+	.matching-2 h2 {font-size: 48px;}
+
+ }
+
+/******* (max-width: 768px) **********/
+
+
+ @media ( max-width: 768px ) {
+
+ 	.content h2, .Which h2 {font-size: 40px; line-height: 46.12px;}
+ 	.content p {font-size: 18px; line-height: 26.6px;}
+ 	.wine {line-height: 29.6px; padding-top: 40px;}
+ 	.matching h2 {font-size: 40px; line-height: 46.12px;}
+	.matching-1 h2 {font-size: 40px; line-height: 46.12px;}
+	.matching-1 p {font-size: 18px;}
+	.curd-1 { margin-bottom: 30px;height: 385px;}
+	.mobile{ margin-bottom: -90px; }
+	.cooler-box p {font-size: 18px;}
+	.what-makes h2 {font-size: 40px; line-height: 46.12px;}
+	.what-makes P {font-size: 18px; line-height: 26.6px;}
+	.matching-2 h2 {font-size: 40px; line-height: 46.12px;}
+ }
+
+/******* (max-width: 552px) **********/
+
+ @media ( max-width: 552px ) {
+ 	.content h2, .Which h2 {width: 100%;}
+ 	.content p{ width: 100%; }
+ 	.matching-1 h2{ width: 100%; }
+ 	.what-makes h2 { width: 100%; }
+ 	.cooler-box p{ width: 100%; }
+ 	.contet-1 { width: 100%;}
+ 	.what-makes h2{ width: 100%; }
+ 	.what-makes P{width: 100%;}
+ 	.matching h2{width: 100%;}
+ 	.matching-2 h2{width: 100%;}
+ }
+
+ @media ( max-width: 425px ) {
+ 	.matching-1 p {width: 100%;}
+ 	.cooler-box p {font-size: 16px;}
+ 	.what-makes h2{font-size: 36px;}
+ }
+
+
+  @media ( max-width: 375px ) {
+
+  .btn {font-size: 20px; width: 300px;}
+  .text1 {font-size: 13px;}
+ 
+ }

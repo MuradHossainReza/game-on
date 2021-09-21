@@ -1,0 +1,215 @@
+/** font **/
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+}
+h2{
+	font-family: 'Signika', sans-serif;
+	font-weight:700;
+}
+button{
+	font-family: 'Signika', sans-serif;
+	font-weight:700;
+}
+p{
+	font-family: 'Alata', sans-serif;
+	font-weight: 400;
+	color: #333333;
+}
+
+body{
+	background-color: #fff;
+}
+/** Banner section **/
+.banner img{
+	width: 100%;
+}
+
+
+/** Content section **/
+
+ 
+.content h2{
+	
+	font-size: 52px;
+    line-height: 59.12px;
+    width: 70%;
+    margin: auto;
+    padding-top: 85px;
+    padding-bottom: 40px;
+
+}
+
+.content p{
+	width: 70%;
+	margin: auto;
+	font-size: 20px;
+	line-height: 29.6px;
+	text-align: initial;
+}
+
+.card-text{
+	font-family: 'Signika', sans-serif;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 19.71px;
+}
+
+
+.m{
+	font-size: 15px;
+	color: #333333;
+	font-family: 'Alata', sans-serif;
+	font-weight: 400;
+
+}
+
+
+.box-{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.text p{
+	text-align: end;
+	margin-top: 20px;
+	color: #32702E;
+	font-size: 14px;
+}
+.text1{
+	font-size: 20px;
+	line-height: 29.6px;
+}
+.text span{
+	font-size: 12px;
+	padding-right: 3px;
+	font-weight: 300;
+}
+
+ 
+.btn {
+	 
+    font-size: 24px;
+    line-height: 112.7%;
+    border: none;
+    width: 365px;
+    height: 55px;
+    padding: 0px;
+	
+}
+.Which h2{	
+	font-size: 52px; 
+    line-height: 59.12px;
+    width: 70%;
+    margin: auto;
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+
+
+ 
+.matching h2{
+ 	font-size: 52px; 
+    line-height: 59.12px;
+    width: 70%;
+    margin: auto;
+    padding-bottom: 55px;
+     padding-top: 100px;
+ }
+
+ .matching-1 h2{
+ 	font-size: 52px;  
+    line-height: 59.12px;
+    width: 70%;
+    margin: auto;
+    padding-bottom: 30px;
+     padding-top: 100px;
+ } 
+
+ .matching-1 p{
+ 	font-size: 20px; padding-top: 10px; padding-bottom: 60px; text-align: center; width:70%; margin: auto;
+ }
+ .matching-2 h2{
+ 	font-size: 52px;
+    line-height: 59.12px;
+    width: 70%;
+    margin: auto;
+    padding-bottom: 40px;
+     padding-top: 100px;
+ }
+
+ .btn-2{
+ 	margin-bottom: 95px;
+ }
+ .card {
+ 	min-height: 385px;
+ 	margin-bottom: -40px;
+ 	border-radius: 10px;
+ 	box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+ }
+.curd-1{
+	margin-bottom: -55px; 
+    height: 559px; 
+}
+ .card-title{
+ 	font-size: 20px;
+ 	line-height: 29.6px;
+ 	font-family: 'Signika', sans-serif;
+	font-weight:700;
+ }
+
+.wine{
+	line-height: 29.6px;
+    font-size: 20px;
+    
+}
+.bold{
+	color: #107433;
+}
+
+.contet-1{
+	width: 70%;
+	margin: auto;
+	font-size: 20px;
+	line-height: 29.6px;
+	margin-bottom: 20px;
+
+}
+.cooler-box p{
+	text-align: initial;
+}
+.cooler-box{
+	background: #E9F2ED;
+    padding-top: 130px;
+	padding-bottom: 60px;
+}
+ .btx-the {
+	background-color:#f7f7f7;
+	
+	padding-bottom: 65px;
+	
+}
+.what-makes P{
+	width: 70%;
+	margin: auto;
+	font-size: 20px;
+	line-height: 29.6px;
+	margin-bottom: 20px;
+}
+.what-makes h2{
+	font-size: 52px;
+    line-height: 59.12px;
+    width: 70%;
+    margin: auto;
+    padding-bottom: 40px;
+    padding-top: 100px;
+}
+.container {
+   
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
